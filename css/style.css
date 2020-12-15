@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.mb30 {
+    margin-bottom: 30px;
+}
